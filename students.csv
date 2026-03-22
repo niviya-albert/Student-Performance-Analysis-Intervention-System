@@ -1,0 +1,11 @@
+student_id,name,course_code,attendance_percent,past_cgpa,test_prep_completed,average_score
+MIT001,Niya Sabu,DS101,92,8.5,Yes,85
+MIT002,Arjun K,AI102,65,6.2,No,58
+MIT003,Meera Narayan,ML201,88,7.8,Yes,82
+MIT004,Rahu Das,DS101,70,7.0,No,62
+MIT005,Ananya K.V,AI102,55,5.5,No,45
+MIT006,Kiran Mathew,ML201,95,8.9,Yes,90
+MIT007,Diya R,DS101,78,7.2,Yes,75
+MIT008,Rohan Kumar,AI102,50,5.8,No,48
+MIT009,Sneha Thomas,ML201,82,8.0,Yes,80
+MIT010,Amit Raj,DS101,60,6.5,No,55
